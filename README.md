@@ -9,3 +9,7 @@ Sources included but are not limited to:
 - Other government departments
 - LEP Evidence Hub
 - UK Data Service
+
+## Files:
+- Economic indicators: merged dataset containing economic indicators by local authorities (earnings, GVA, child poverty, working hours).
+- Companies and sectors in the North East and Scotland: merged dataset containing location of companies classified by sectors (North East and Scotland).
